@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71375511219",
+    "project_id": "socialsignin-1356"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71375511219:android:1488f65e721e9fe9",
+        "android_client_info": {
+          "package_name": "com.ananth.socialsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71375511219-8kve0qjhj2j950c6e83u9n9liuoennpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ananth.socialsignin",
+            "certificate_hash": "99F0DF89AD6255EEAB4D4504F5DCAD311EC67E7F"
+          }
+        },
+        {
+          "client_id": "71375511219-a9nnhmq90s2tl7mc80of5ej44eradqtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6j4YJiovcKFiBqM0j1-jK6JVt33tnqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
