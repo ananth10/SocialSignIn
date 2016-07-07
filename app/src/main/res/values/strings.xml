@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">SocialSignIn</string>
     <string name="loading">loading</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="ok">OK</string>
+    <string name="app_id">157740984644716</string>
+    <string name="facebook_app_name">SocialSignIn</string>
 </resources>
